@@ -1,4 +1,4 @@
-#FAC-week2-DOM maipulation and Testing
+# FAC-week2-DOM maipulation and Testing
 
 ## Aim - Use Test driven development(TDD) to build a To-do app
 
